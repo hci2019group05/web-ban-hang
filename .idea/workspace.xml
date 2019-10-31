@@ -8,27 +8,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SVrXuPImZUHorEB3QJMDx59FVa" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\demo3.skyvietnam.vn\M001\upload\images\product" />
-      <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\megaweb.com.vn\upload\images" />
-      <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\lib" />
-      <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\css" />
       <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\demo3.skyvietnam.vn\M001" />
     </key>
   </component>
@@ -44,6 +37,32 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.them-san-pham.html">
+    <configuration name="am-sieu-toc-inox-1-8l-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-ban-hang/web-ban-dong-gia-dung/demo3.skyvietnam.vn/M001/am-sieu-toc-inox-1-8l-2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="am-sieu-toc-inox-1-8l-3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-ban-hang/web-ban-dong-gia-dung/demo3.skyvietnam.vn/M001/am-sieu-toc-inox-1-8l-3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="phien-ban-mobile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-ban-hang/web-ban-dong-gia-dung/demo3.skyvietnam.vn/M001/phien-ban-mobile.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="pro1(1).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-ban-hang/web-ban-dong-gia-dung/demo3.skyvietnam.vn/M001/upload/images/product/pro1(1).html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="them-san-pham.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-ban-hang/web-ban-dong-gia-dung/demo3.skyvietnam.vn/M001/them-san-pham.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.them-san-pham.html" />
+        <item itemvalue="JavaScript Debug.phien-ban-mobile.html" />
+        <item itemvalue="JavaScript Debug.am-sieu-toc-inox-1-8l-3.html" />
+        <item itemvalue="JavaScript Debug.am-sieu-toc-inox-1-8l-2.html" />
+        <item itemvalue="JavaScript Debug.pro1(1).html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,17 +76,23 @@
       <workItem from="1571659650082" duration="601000" />
       <workItem from="1571884712566" duration="9273000" />
       <workItem from="1571912797159" duration="21000" />
-      <workItem from="1571970416980" duration="2335000" />
-      <workItem from="1572271202357" duration="1847000" />
-      <workItem from="1572340587388" duration="1199000" />
-      <workItem from="1572349095482" duration="2770000" />
-      <workItem from="1572434072753" duration="9121000" />
-      <workItem from="1572489795704" duration="6562000" />
-      <workItem from="1572525010157" duration="24000" />
+      <workItem from="1571970416980" duration="2002000" />
+      <workItem from="1572535988645" duration="4727000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
