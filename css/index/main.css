@@ -1,0 +1,33 @@
+*{
+    -webkit-box-sizing: border-box;
+}
+.quangcao {
+    margin-top: 15px;
+}
+
+.quangcao img {
+    width: 100%;
+    margin-bottom: 10px
+}
+.hot-bottom{
+    border-radius: 0 8px 0 0;
+    right: auto;
+    left: 0;
+    height: 44px;
+    width: 178px;
+    background: #da2128;
+    padding: 0 15px;
+    border-radius: 0 8px 0  0;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: 99;
+}
+.hot-bottom span{
+    background: url("../../img/template/images.jpg") no-repeat left center;
+    padding-left: 36px;
+    font: 20px/48px StagSansVUSemibold;
+    color: #fff;
+    display: inline-block;
+    font-weight: bold;
+}

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65e68bc1-e78b-4c1b-adac-5cfd43657237" name="Default Changelist" comment="" />
+    <list default="true" id="fddf38f2-3761-40cb-8d7e-2bd7539b62c4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,20 +16,26 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SVrXuPImZUHorEB3QJMDx59FVa" />
+  <component name="ProjectId" id="1TaPY1Y3OeH1TJoSAl2Yz4f1lDN" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/login" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\demo3.skyvietnam.vn\M001\upload\images\product" />
-      <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\megaweb.com.vn\upload\images" />
-      <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\lib" />
-      <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\css" />
-      <recent name="C:\Users\COMPUTER\Desktop\web-ban-do-gia-dung\demo3.skyvietnam.vn\M001" />
+      <recent name="D:\Project-GTNN\img" />
+      <recent name="D:\Project-GTNN\fonts" />
+      <recent name="D:\Project-GTNN\img\product" />
+      <recent name="D:\Project-GTNN\img\tin-tuc" />
+      <recent name="D:\Project-GTNN\img\thuong-hieu" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project-GTNN\img\template" />
+      <recent name="D:\Project-GTNN\img" />
+      <recent name="D:\Project-GTNN" />
+      <recent name="D:\Project-GTNN\fonts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -49,21 +55,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="65e68bc1-e78b-4c1b-adac-5cfd43657237" name="Default Changelist" comment="" />
-      <created>1571659647152</created>
+      <changelist id="fddf38f2-3761-40cb-8d7e-2bd7539b62c4" name="Default Changelist" comment="" />
+      <created>1573695276640</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571659647152</updated>
-      <workItem from="1571659650082" duration="601000" />
-      <workItem from="1571884712566" duration="9273000" />
-      <workItem from="1571912797159" duration="21000" />
-      <workItem from="1571970416980" duration="2335000" />
-      <workItem from="1572271202357" duration="1847000" />
-      <workItem from="1572340587388" duration="1199000" />
-      <workItem from="1572349095482" duration="2770000" />
-      <workItem from="1572434072753" duration="9121000" />
-      <workItem from="1572489795704" duration="6562000" />
-      <workItem from="1572525010157" duration="24000" />
+      <updated>1573695276640</updated>
+      <workItem from="1573695278272" duration="13679000" />
+      <workItem from="1573743790791" duration="2419000" />
+      <workItem from="1573785969163" duration="4755000" />
+      <workItem from="1573807025100" duration="4466000" />
     </task>
     <servers />
   </component>
