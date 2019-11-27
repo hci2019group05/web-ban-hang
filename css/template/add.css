@@ -1622,9 +1622,10 @@ footer {
     border-top: 1px solid #333;
 }
 
-.bx-breadcrumb .breadcrumb li{
+.bx-breadcrumb .breadcrumb li {
     display: inline-block;
 }
+
 .bx-breadcrumb .breadcrumb li a {
     color: #666
 }
@@ -1636,11 +1637,13 @@ footer {
 .bx-breadcrumb .breadcrumb li a i {
     font-size: 20px
 }
-.breadcrumb>li+li:before {
+
+.breadcrumb > li + li:before {
     padding: 0 5px;
     color: #ccc;
     content: "/\00a0";
 }
+
 .totalprice {
     font-size: 16px;
     color: red
@@ -1883,6 +1886,7 @@ footer {
     font-size: 16px;
     text-transform: uppercase
 }
+
 .contetn-lst-news h2 {
     margin: 12px 0px;
     padding: 0px;
@@ -1897,6 +1901,7 @@ footer {
     position: relative;
     color: rgb(0, 0, 0);
 }
+
 .about-us {
     float: left;
     width: 100%;
@@ -2010,9 +2015,11 @@ footer {
     padding: 7px 0;
     font-size: 13px
 }
-.content-ft ul li a i{
+
+.content-ft ul li a i {
     padding-right: 5px;
 }
+
 .area-formemail-web h3, .box-ft h3 {
     font-size: 14px;
     font-weight: 600
@@ -2518,7 +2525,7 @@ footer {
     float: left;
     width: 100%;
     overflow: hidden;
-	margin-bottom:10px
+    margin-bottom: 10px
 }
 
 .slider-brand h6 {
@@ -2875,6 +2882,7 @@ bx-danhmuc img {
     padding: 10px;
     float: left;
 }
+
 .order-product .lbl-cnt {
     float: right
 }
@@ -2911,21 +2919,32 @@ bx-danhmuc img {
 
 .call-now {
     padding: 15px 0;
-    text-align: center;
+    text-align: left;
     border-bottom: 1px solid #f1f1f1;
     border-top: 1px solid #f1f1f1;
     font-size: 12px;
-    color: #000
+    color: #333333
+}
+.bx-buy-detail{
+    width: 100%;
 }
 
-.btn-buy-cart {
+.buy {
     display: inline-block;
-    padding: 5px 25px 5px 10px;
-    background: #f23901;
-    color: #fff;
+    margin-top: 25px;
+    width: 60%;
+    height: 45px;
+    text-align: center;
+    padding: 10px;
+    background: #e53935;
+    color: #fff !important;
     font-size: 16px;
     border-radius: 5px;
     cursor: pointer;
+}
+
+.buy:hover {
+    background-color: #d8201c;
 }
 
 .btn-buy-cart i {
@@ -3030,17 +3049,20 @@ bx-danhmuc img {
     z-index: 999;
     position: relative
 }
+
 .border-news {
     float: left;
     width: 100%;
 }
-.line{
+
+.line {
     border-bottom: 1px solid #f1f1f1;
     height: 1px;
     padding-bottom: 10px;
     margin-bottom: 7px;
     display: inline-block;
 }
+
 .img-news {
     height: 200px;
     position: relative;
@@ -3053,7 +3075,14 @@ bx-danhmuc img {
     height: 100%;
     width: 100%;
 }
-.tinlienquan{float: left;width: 100%;margin-top: 15px;padding: 15px 0;}
+
+.tinlienquan {
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+    padding: 15px 0;
+}
+
 .tinlienquan h6 {
     font-size: 16px;
     font-weight: 600;
@@ -3063,35 +3092,52 @@ bx-danhmuc img {
     border-top: 1px dotted #000;
     padding: 10px 0;
 }
-.tinlienquan ul li{list-style: circle;}
+
+.tinlienquan ul li {
+    list-style: circle;
+}
+
 .tinlienquan ul li h3 {
     max-height: 40px;
     overflow: hidden;
 }
+
 .tinlienquan ul li h3 a {
     color: #333;
     display: block;
     color: #000;
     font-size: 14px;
 }
+
 .tinlienquan ul li a:hover {
     color: #d0b767;
 }
-.tinlienquan ul{padding: 0;}
+
+.tinlienquan ul {
+    padding: 0;
+}
+
 .tinlienquan ul li {
     padding: 10px 15px;
 }
-.tinlienquan ul li p{padding: 0;margin: 0;}
+
+.tinlienquan ul li p {
+    padding: 0;
+    margin: 0;
+}
+
 .tinlienquan ul .divnews {
     width: 60px;
     height: 60px;
     float: left;
     margin-right: 10px;
 }
+
 .tinlienquan ul .divnews img {
     width: 100%;
     height: 100%;
 }
+
 #gal1 {
     border: 1px solid #f1f1f1;
     padding: 5px 0;

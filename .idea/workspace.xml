@@ -11,8 +11,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -20,22 +20,23 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/login" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Project-GTNN\img" />
-      <recent name="D:\Project-GTNN\fonts" />
-      <recent name="D:\Project-GTNN\img\product" />
-      <recent name="D:\Project-GTNN\img\tin-tuc" />
-      <recent name="D:\Project-GTNN\img\thuong-hieu" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project-GTNN" />
+      <recent name="D:\Project-GTNN\thiet-bi-nha-bep" />
+      <recent name="D:\Project-GTNN\img\detail-product" />
       <recent name="D:\Project-GTNN\img\template" />
       <recent name="D:\Project-GTNN\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project-GTNN\img\product" />
       <recent name="D:\Project-GTNN" />
-      <recent name="D:\Project-GTNN\fonts" />
+      <recent name="D:\Project-GTNN\img\detail-product" />
+      <recent name="D:\Project-GTNN\img" />
+      <recent name="D:\Project-GTNN\js\template" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,7 +64,15 @@
       <workItem from="1573695278272" duration="13679000" />
       <workItem from="1573743790791" duration="2419000" />
       <workItem from="1573785969163" duration="4755000" />
-      <workItem from="1573807025100" duration="4466000" />
+      <workItem from="1573807025100" duration="18150000" />
+      <workItem from="1573864970408" duration="11694000" />
+      <workItem from="1573950160965" duration="55000" />
+      <workItem from="1574296849891" duration="11932000" />
+      <workItem from="1574327566836" duration="5418000" />
+      <workItem from="1574390165139" duration="4316000" />
+      <workItem from="1574782191509" duration="1906000" />
+      <workItem from="1574822009130" duration="5338000" />
+      <workItem from="1574848912402" duration="4417000" />
     </task>
     <servers />
   </component>
