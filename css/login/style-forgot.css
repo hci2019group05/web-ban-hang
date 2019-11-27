@@ -1,34 +1,32 @@
-.form-gap {
+#fpass .form-gap {
     padding-top: 70px;
 }
 
-.form-group a.btn-link {
+#fpass .form-group a.btn-link {
     font-size: 18px;
     color: #909081;
     margin-top: 50px;
 }
 
-.form-group a.btn-link:focus, .form-group a.btn-link:hover {
+#fpass .form-group a.btn-link:focus, .form-group a.btn-link:hover {
     text-decoration: none;
     color: #575757;
 }
-.panel {
-    width: 157.5%;
+
+#fpass .panel {
+    width: 100%;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 50px 25px 10px;
+    margin: 0 auto 50px;
 }
-.container{
-    position:absolute;
-    left:50%;
-    margin-left: -282px;
-}
-.form-control {
-    height: 46.59px;
-    width: 505px;
+
+#fpass .col-md-4{
+    margin: 0 auto;
 }
 
 .input-group {
     margin-top: 20px;
-    height: 46.59px;
-    width: 505px;
 }
 
 

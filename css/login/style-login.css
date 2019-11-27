@@ -1,62 +1,17 @@
-.panel {
-    width: 157.5%;
-}
-.container{
-    margin-left: 272px;
-}
-
-.form-gap {
-    padding-top: 70px;
+.breadcrumb > li + li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: ">";
 }
 
-.form-group a.btn-link {
-    font-size: 18px;
-    color: #909081;
-    padding-top: 50px;
+#login .panel{
+    border: 1px solid black;
+    padding: 50px 50px 0;
+    margin-bottom: 100px;
 }
-
-.form-group a.btn-link:focus, .form-group a.btn-link:hover {
-    text-decoration: none;
-    color: #575757;
+#login .input-group{
+    box-shadow: 3px 7px 6px 0px #888888;
 }
-
-.form-control {
-    height: 46.59px;
-    width: 505px;
-}
-
-.input-group {
-    margin-top: 20px;
-    height: 46.59px;
-    width: 505px;
-}
-.wthree-text {
-    margin-top: 10px;
-}
-
-.wthree-text label {
-    font-size: 0.9em;
-    color: #000;
-    font-weight: 200;
-    cursor: pointer;
-    position: relative;
-}
-.wthree-text {
-    position: relative;
-    text-align: left;
-}
-.wthree-text input.checkbox {
-    cursor: pointer;
-    width: 1.2em;
-    height: 1.2em;
-    float:left;
-}
-.wthree-text p {
-    font-size: 1em;
-    color: #000000;
-    text-align: center;
-    letter-spacing: 1px;
-    font-weight: 300;
-    font-size: 15px;
-    margin-left:5px;
+h2.text-center{
+    margin-bottom: 50px;
 }

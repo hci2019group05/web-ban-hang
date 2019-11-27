@@ -7,9 +7,7 @@ html, h3, h1 {
     vertical-align: baseline;
 }
 
-body {
-    font-family: Tahoma, sans-serif;
-}
+
 a{
     text-decoration: none;
 }
@@ -41,7 +39,7 @@ h1 {
     padding: 1em;
 }
 
-input[type="text"], input[type="email"], input[type="password"] {
+.agileits-top input[type="text"], input[type="email"], input[type="password"] {
     font-size: 1em;
     color: black;
     font-weight: 100;
@@ -59,7 +57,7 @@ input[type="text"], input[type="email"], input[type="password"] {
     background-repeat: no-repeat;
     color: #000;
     font-family: Tahoma, sans-serif;
-    margin-top: 20px;
+    margin: 20px auto;
 }
 
 

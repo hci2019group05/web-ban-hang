@@ -3,43 +3,145 @@
 <head>
     <meta charset="UTF-8">
     <title>MoonHouse</title>
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+    <link href="fonts/font-awesome.min.css" rel="stylesheet">
+    <link href="css/template/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css/template/owl.carousel.css" rel="stylesheet"/>
+    <link href="css/template/owl.theme.css" rel="stylesheet"/>
+    <link href="fonts/font-awesome.min.css" rel="stylesheet">
+    <link href="css/template/style.css" rel="stylesheet"/>
+    <link href="css/template/add.css" rel="stylesheet"/>
+    <link href="css/template/responsive.css" rel="stylesheet"/>
+    <link href="css/template/theme-default.css" rel="stylesheet"/>
+
+    <script src="js/template/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <script src="js/template/bootstrap.min.js" type="text/javascript"></script>
+    <script src="js/template/owl.carousel.js" type="text/javascript"></script>
+    <script src="js/template/jquery.form-validator.min.js" type="text/javascript"></script>
+    <script src="js/template/custom.js" type="text/javascript"></script>
+    <script src="js/template/cart.js" type="text/javascript"></script>
+    <script src="fonts/fontawesome-free-5.11.2-web/js/all.min.js"></script>
+    <link rel="stylesheet" href="css/hot-line.css">
     <link rel="stylesheet" href="css/login/style-forgot.css">
+
 
 </head>
 <body>
-<div class="container">
-    <div class="form-gap"></div>
-    <div class="row">
-        <div class="col-md-4 ">
-            <div class="panel panel-default">
-                <div class="panel-body">
-                    <div class="text-center">
-                        <h3><i class="fa fa-lock fa-4x"></i></h3>
-                        <h2 class="text-center">Quên mật khẩu?</h2>
-                        <span>Nhập email hoặc số điện thoại khôi phục</span>
-                        <div class="panel-body">
-                            <form id="register-form" role="form" autocomplete="off" class="form" method="post">
-                                <div class="form-group">
-                                    <div class="input-group">
+<div class="header-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-3">
+                <div class="login">
+                    <a href="login-form.html"><p>ĐĂNG NHẬP</p></a>
+                    <span class="breadcrumbs">|</span>
+                    <a href="register-form.html"><p>ĐĂNG KÍ</p></a>
+                </div>
+            </div>
+            <div class="col-md-3">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="header-top-second">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="logo text-center">
+                    <a href="index.html">
+                        <img src="img/template/MoonHouse.png"
+                             alt="img/MoonHouse.png">
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="search">
+                    <form method="get" class="search-form"
+                          action="http://demo3.skyvietnam.vn/M001/tim-kiem">
+                        <div role="search" class="head-form-search">
+                            <input value="" name="key" class="form-control" type="text"
+                                   placeholder="Nhập nội dung cần tìm">
+                            <button class="btn-submit" type="submit"><i class="fa fa-search"></i>Tìm kiếm</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="cart-chopping">
+                    <div class="bxcart">
+                        <div class="input-group" id="hovercart">
+                            <span class="input-group-addon" id="basic-addon1"><i class="fa fa-shopping-cart"></i></span>
+                            <span class="form-control">Giỏ hàng: (0 Sp)</span>
+                        </div>
+                        <div class="box-cart-lst">
+                            <div id="listproductcart"></div>
+                            <div class="bx-price-cart">
+                                <p class="cart-total"><span class="tongtien">Tổng tiền :</span> <span
+                                        class="price">0 ₫</span>
+                                </p>
+                            </div>
+                            <div class="bx-btn">
+                                <a href="gio-hang.html" class="btn btn-Giohang" title="Giỏ hàng">Giỏ
+                                    hàng</a>
+                                <a href="index.html" class="btn btn-Checkout"
+                                   title="Thanh toán">Thanh toán</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class='bx-breadcrumb'>
+            <ol class='breadcrumb'>
+                <li>
+                    <a href="index.html"
+                       title="Trang chủ">
+                        Trang chủ </a>
+                </li>
+                <li class="active">Đăng nhập
+                </li>
+            </ol>
+        </div>
+    </div>
+</div>
+<div id="fpass">
+    <div class="container">
+        <div class="form-gap"></div>
+        <div class="row">
+            <div class="col-md-4 ">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="text-center">
+                            <h3><i class="fa fa-lock fa-4x"></i></h3>
+                            <h2 class="text-center">Quên mật khẩu?</h2>
+                            <span>Nhập email hoặc số điện thoại khôi phục</span>
+                            <div class="panel-body">
+                                <form id="register-form" role="form" autocomplete="off" class="form" method="post">
+                                    <div class="form-group">
+                                        <div class="input-group">
                                         <span class="input-group-addon"><i
                                                 class="glyphicon glyphicon-envelope color-blue"></i></span>
-                                        <input id="email" name="email" placeholder="Email hoặc số điện thoại" class="form-control"
-                                               type="email">
+                                            <input id="email" name="email" placeholder="Email hoặc số điện thoại"
+                                                   class="form-control " type="email">
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="form-group">
-                                    <input name="recover-submit" class="btn btn-lg btn-primary btn-block"
-                                           value="Khôi phục mật khẩu" type="submit">
-                                </div>
-                                <div class="form-group">
-                                    <a href="#" class="btn btn-link"><span>Trở lại</span></a>
-                                </div>
-                                <input type="hidden" class="hide" name="token" id="token" value="">
-                            </form>
+                                    <div class="form-group">
+                                        <input name="recover-submit" class="btn btn-lg btn-primary btn-block"
+                                               value="Khôi phục mật khẩu" type="submit">
+                                    </div>
+                                    <div class="form-group">
+                                        <a href="#" class="btn btn-link"><span>Trở lại</span></a>
+                                    </div>
+                                    <input type="hidden" class="hide" name="token" id="token" value="">
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -47,5 +149,123 @@
         </div>
     </div>
 </div>
+<script src="js/template/jquery.elevatezoom.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#zoom_03").elevateZoom({
+            gallery: 'gal1',
+            cursor: 'pointer',
+            galleryActiveClass: 'active',
+            imageCrossfade: true
+        });
+
+    });
+</script>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="content-ft">
+                    <h6>Về chúng tôi</h6>
+                    <div class="box-ft">
+                        <ul>
+                            <li><a href="gioi-thieu.html" title="Giới thiệu"><i
+                                    class="fa fa-caret-right"></i>Giới thiệu</a></li>
+                            <li><a href="chinh-sach-ban-hang.html" title="Chính sách bán hàng"><i
+                                    class="fa fa-caret-right"></i>Chính sách bán hàng</a></li>
+                            <li><a href="chinh-sach-doi-tra-hang.html" title="Chính sách đổi trả hàng"><i
+                                    class="fa fa-caret-right"></i>Chính sách đổi trả hàng</a></li>
+                            <li><a href="phien-ban-mobile.html" title="Phiên bản mobile"><i
+                                    class="fa fa-caret-right"></i>Phiên bản mobile</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="content-ft">
+                    <h6>Hỗ trợ khách hàng</h6>
+                    <div class="box-ft">
+                        <ul>
+                            <li><a href="lien-he.html" title="Liên hệ"><i
+                                    class="fa fa-caret-right"></i>Liên hệ</a></li>
+                            <li><a href="mua-hang-tu-xa.html" title="Mua hàng từ xa"><i
+                                    class="fa fa-caret-right"></i>Mua hàng từ xa</a></li>
+                            <li><a href="chinh-sach-bao-hanh.html" title="Chính sách bảo hành"><i
+                                    class="fa fa-caret-right"></i>Chính sách bảo hành</a></li>
+                            <li><a href="mua-hang-tra-gop.html" title="Mua hàng trả góp"><i
+                                    class="fa fa-caret-right"></i>Mua hàng trả góp</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="content-ft">
+                    <h6>Tài khoản</h6>
+                    <div class="box-ft">
+                        <ul>
+                            <li><a href="gio-hang.html" title="Giỏ hàng"><i
+                                    class="fa fa-caret-right"></i>Giỏ hàng</a></li>
+                            <li><a href="them-san-pham.html" title="Thêm sản phẩm"><i
+                                    class="fa fa-caret-right"></i>Thêm sản phẩm</a></li>
+                            <li><a href="index.html" title="Thanh toán"><i
+                                    class="fa fa-caret-right"></i>Thanh toán</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="content-ft">
+                    <h6>Thông tin liên hệ</h6>
+                    <div class="box-ft">
+                        <p>KTX Khu B ĐHQG, Khu phố 6, Phường Linh Trung, Quận Thủ Đức, TP. Hồ Chí Minh<br/>
+                            Tel: 84. 63. 3831343<br/>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="ft">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-xs-12">
+                    <div class="area-footer-bottom aligncenter">
+                        MoonHouse - Website bán đồ gia dụng số 1 Việt Nam
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</footer>
+<!--Included Plugins Javascript-->
+<script src="js/template/wow.min.js"></script>
+<a href="#0" class="cd-top">Top</a>
+<script>
+    jQuery(document).ready(function ($) {
+        var offset = 300,
+            offset_opacity = 1200,
+            scroll_top_duration = 700,
+            $back_to_top = $('.cd-top');
+
+        $(window).scroll(function () {
+            ($(this).scrollTop() > offset) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
+            if ($(this).scrollTop() > offset_opacity) {
+                $back_to_top.addClass('cd-fade-out');
+            }
+        });
+
+        //smooth scroll to top
+        $back_to_top.on('click', function (event) {
+            event.preventDefault();
+            $('body,html').animate({
+                    scrollTop: 0,
+                }, scroll_top_duration
+            );
+        });
+
+    });
+</script>
 </body>
 </html>

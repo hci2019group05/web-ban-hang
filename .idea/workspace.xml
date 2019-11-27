@@ -20,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -72,7 +72,8 @@
       <workItem from="1574390165139" duration="4316000" />
       <workItem from="1574782191509" duration="1906000" />
       <workItem from="1574822009130" duration="5338000" />
-      <workItem from="1574848912402" duration="5246000" />
+      <workItem from="1574848912402" duration="5577000" />
+      <workItem from="1574871301320" duration="2019000" />
     </task>
     <servers />
   </component>
