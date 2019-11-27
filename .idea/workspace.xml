@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fddf38f2-3761-40cb-8d7e-2bd7539b62c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mln-51.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mln-52.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mln-79.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fddf38f2-3761-40cb-8d7e-2bd7539b62c4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,22 +16,12 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectId" id="1TaPY1Y3OeH1TJoSAl2Yz4f1lDN" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -80,7 +64,6 @@
       <workItem from="1573695278272" duration="13679000" />
       <workItem from="1573743790791" duration="2419000" />
       <workItem from="1573785969163" duration="4755000" />
-<<<<<<< HEAD
       <workItem from="1573807025100" duration="18150000" />
       <workItem from="1573864970408" duration="11694000" />
       <workItem from="1573950160965" duration="55000" />
@@ -89,26 +72,11 @@
       <workItem from="1574390165139" duration="4316000" />
       <workItem from="1574782191509" duration="1906000" />
       <workItem from="1574822009130" duration="5338000" />
-      <workItem from="1574848912402" duration="4417000" />
-=======
-      <workItem from="1573807025100" duration="4466000" />
-      <workItem from="1573865616996" duration="5287000" />
->>>>>>> e476e34e4c30f30c0cca40ac3693aa8be5743c68
+      <workItem from="1574848912402" duration="5246000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
