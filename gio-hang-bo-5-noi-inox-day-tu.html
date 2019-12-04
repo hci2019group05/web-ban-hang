@@ -51,12 +51,20 @@
 <div class="header-top">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                <span class="envelop"><i
-                        class="fa fa-envelope text-center"></i> Email: abc.vp89@gmail.com</span>
-                <span class="email"><i class="fa fa-phone text-center"></i> Phone: 02466862857</span>
+            <div class="col-md-6"><span class="email">
+                <i class="fas fa-map-marker-alt"></i> Phường Linh Trung, Thủ Đức, TP. Hồ Chí Minh</span>
             </div>
-            <div class="col-md-6"></div>
+            <div class="col-md-3">
+
+            </div>
+            <div class="col-md-3">
+                <div class="login">
+                    <a href="login-form.html"><p>ĐĂNG NHẬP</p></a>
+                    <span class="breadcrumbs">|</span>
+                    <a href="register-form.html"><p>ĐĂNG KÍ</p></a>
+                </div>
+
+            </div>
         </div>
     </div>
 </div>
@@ -92,15 +100,14 @@
                             <span class="form-control">Giỏ hàng: (0 Sp)</span>
                         </div>
                         <div class="box-cart-lst">
-                            <div id="listproductcart">
-                            </div>
+                            <div id="listproductcart"></div>
                             <div class="bx-price-cart">
                                 <p class="cart-total"><span class="tongtien">Tổng tiền :</span> <span
                                         class="price">0 ₫</span>
                                 </p>
                             </div>
                             <div class="bx-btn">
-                                <a href="" class="btn btn-Giohang" title="Giỏ hàng">Giỏ
+                                <a href="gio-hang.html" class="btn btn-Giohang" title="Giỏ hàng">Giỏ
                                     hàng</a>
                                 <a href="index.html" class="btn btn-Checkout"
                                    title="Thanh toán">Thanh toán</a>
@@ -122,32 +129,23 @@
                                 class="fa fa-caret-down pull-right"></i></h5>
                     </div>
                 </div>
-                <!--begin nav-->
-
                 <div class="col-md-9 pdingleft0">
                     <div class="menu-top">
-                        <ul id="mnabc">
+                        <ul id="mnabcc">
                             <li class="active">
-                                <a href="san-pham-noi-bat.html" title="Hot Deals">Hot Deals</a>
-                                <img
-                                        src="img/template/hot.gif" class="iconhot"
-                                        alt="">
-                            </li>
-                            <li class="active">
-                                <a href="san-pham-khuyen-mai.html" title="Khuyến mãi">Khuyến
-                                    mãi</a><img
-                                    src="img/template/hot.gif" class="iconhot"
-                                    alt="">
+                                <a href="san-pham-khuyen-mai.html" title="Khuyến mãi">Khuyến mãi</a><img
+                                    src="img/template/hot.gif" class="iconhot" alt="">
                             </li>
                             <li class="">
-                                <a href="tuyen-dung.html"
+                                <a href="gioi-thieu.html"
                                    title="Giới thiệu">
                                     Giới thiệu </a>
                             </li>
                             <li class="">
-                                <a href=""
+                                <a href="bao-hanh.html"
                                    title="Bảo hành">
-                                    Bảo hành </a>
+                                    Bảo hành</a>
+                            </li>
                             </li>
                             <li class="">
                                 <a href="tin-tuc.html"
@@ -155,32 +153,22 @@
                                     Tin tức </a>
                             </li>
                             <li class="">
-                                <a href="tin-tuc.html"
+                                <a href="lien-he.html"
                                    title="Liên hệ">
                                     Liên hệ </a>
                             </li>
                         </ul>
+
                     </div>
                 </div>
 
-
-                <!--end nav-->
             </div>
         </div>
     </div>
 </section>
 <div class="main-header">
     <header class="">
-        <script>
-            $(document).ready(function () {
-                $('.togger-menu').on('click', function () {
-                    $('#menu-primary').toggle();
-                })
-                $('.togger-menu-sub').on('click', function () {
-                    $('#sub-menu').toggle();
-                })
-            })
-        </script>
+
         <div class="togger-menu"><span></span> <i class="fa fa-list"></i>
         </div>
         <div id="menu-primary" class="menu">
@@ -198,7 +186,7 @@
                                     href="dien-gia-dung.html" title="Điện gia dụng" target="_parent">Điện gia dụng</a>
                             </li>
                             <li class="has-sub"><img src="img/index/maylocnuoc.png" alt="Máy lọc nước"><a
-                                    href="may-loc-nuoc.html" title="Máy lọc nước" target="_parent">Máy lọc nước</a></li>
+                                    href="do-gia-dung.html" title="Máy lọc nước" target="_parent">Máy lọc nước</a></li>
                             <li class="has-sub"><img src="img/index/thietbinhabep.png"
                                                      alt="Thiết bị nhà bếp"><a href="thiet-bi-nha-bep.html"
                                                                                title="Thiết bị nhà bếp"
@@ -216,24 +204,18 @@
                         <div class="menu-top">
                             <ul id="mnabc">
                                 <li class="active">
-                                    <a href="san-pham-noi-bat.html" title="Hot Deals">Hot Deals</a>
-                                    <img
-                                            src="img/template/hot.gif" class="iconhot"
-                                            alt="">
-                                </li>
-                                <li class="active">
                                     <a href="san-pham-khuyen-mai.html" title="Khuyến mãi">Khuyến
                                         mãi</a><img
                                         src="img/template/hot.gif" class="iconhot"
                                         alt="">
                                 </li>
                                 <li class="">
-                                    <a href="tuyen-dung.html"
+                                    <a href="gioi-thieu.html"
                                        title="Giới thiệu">
                                         Giới thiệu </a>
                                 </li>
                                 <li class="">
-                                    <a href=""
+                                    <a href="bao-hanh.html"
                                        title="Bảo hành">
                                         Bảo hành </a>
                                 </li>
@@ -243,7 +225,7 @@
                                         Tin tức </a>
                                 </li>
                                 <li class="">
-                                    <a href="tin-tuc.html"
+                                    <a href="lien-he.html"
                                        title="Liên hệ">
                                         Liên hệ </a>
                                 </li>
@@ -253,7 +235,6 @@
                 </div>
             </div>
         </div>
-
     </header>
 </div>
 <script>
@@ -270,6 +251,9 @@
     })
 </script>
 <section class="lst-product">
+    <a class="hot-bottom" href="1800 9000">
+        <span>1800 9000</span>
+    </a>
     <div class="container">
         <div class="row" style="clear:both;">
             <div class="col-md-3 pdingright0 cssRPLeft againShowL">
