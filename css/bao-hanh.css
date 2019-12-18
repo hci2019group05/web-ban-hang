@@ -1,0 +1,8 @@
+.paragraph ul li{
+    list-style-type: circle;
+    margin-left: 25px;
+    line-height: 25px;
+}
+.heading h5, h6{
+    line-height: 30px;
+}
