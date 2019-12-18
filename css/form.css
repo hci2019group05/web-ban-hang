@@ -1,0 +1,38 @@
+
+.col-md-6 .form input {
+    margin-top: 20px;
+}
+
+.col-md-6 .form input[type=text], [type=email] {
+    width: 70%;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 1px solid #dddddd;
+}
+
+.col-md-6 .form textarea {
+    width: 70%;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 1px solid #dddddd;
+
+}
+
+.col-md-6 .form input[type=submit] {
+    background-color: orange;
+    border-radius: 10px;
+    width: 30%;
+    height: 50px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    border: 1px solid #dddddd;
+
+}
+
+.col-md-6 .form input[type=submit]:hover {
+    background-color: #1579bd;
+}

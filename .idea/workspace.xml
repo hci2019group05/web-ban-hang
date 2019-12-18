@@ -8,6 +8,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -20,23 +25,24 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Project-GTNN" />
-      <recent name="D:\Project-GTNN\css" />
-      <recent name="D:\Project-GTNN\img\product" />
-      <recent name="D:\Project-GTNN\img\detail-product" />
-      <recent name="D:\Project-GTNN\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project-GTNN\css" />
       <recent name="D:\Project-GTNN" />
       <recent name="D:\Project-GTNN\thiet-bi-nha-bep" />
       <recent name="D:\Project-GTNN\img\detail-product" />
       <recent name="D:\Project-GTNN\img\template" />
-      <recent name="D:\Project-GTNN\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project-GTNN\img\tin-tuc" />
+      <recent name="D:\Project-GTNN" />
+      <recent name="D:\Project-GTNN\css" />
+      <recent name="D:\Project-GTNN\img\product" />
+      <recent name="D:\Project-GTNN\img\detail-product" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,7 +81,24 @@
       <workItem from="1574848912402" duration="5577000" />
       <workItem from="1574871301320" duration="2478000" />
       <workItem from="1574908819201" duration="912000" />
-      <workItem from="1575449401235" duration="9119000" />
+      <workItem from="1575449401235" duration="20424000" />
+      <workItem from="1575535770905" duration="610000" />
+      <workItem from="1575621849925" duration="51000" />
+      <workItem from="1575642340993" duration="2768000" />
+      <workItem from="1575781260931" duration="3110000" />
+      <workItem from="1575793503305" duration="661000" />
+      <workItem from="1575814195651" duration="2326000" />
+      <workItem from="1575849719203" duration="10216000" />
+      <workItem from="1575898637414" duration="3871000" />
+      <workItem from="1576060426203" duration="26000" />
+      <workItem from="1576112263925" duration="506000" />
+      <workItem from="1576115505762" duration="2519000" />
+      <workItem from="1576125098064" duration="1855000" />
+      <workItem from="1576134098996" duration="10319000" />
+      <workItem from="1576586451682" duration="36000" />
+      <workItem from="1576606502779" duration="46000" />
+      <workItem from="1576607004456" duration="949000" />
+      <workItem from="1576676690161" duration="926000" />
     </task>
     <servers />
   </component>
