@@ -88,6 +88,29 @@ h1 {
     color: #fff;
 }
 
+input[type="submit"] {
+    font-size: .9em;
+    color: #fff;
+    background: #1579BD;
+    outline: none;
+    border: 1px solid #1579BD;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 1em;
+    -webkit-appearance: none;
+    width: 100%;
+    margin: 2em 0;
+    letter-spacing: 4px;
+}
+
+input[type="submit"]:hover {
+    -webkit-transition: .5s all;
+    -moz-transition: .5s all;
+    -o-transition: .5s all;
+    -ms-transition: .5s all;
+    transition: .5s all;
+    background: #0031ff;
+}
 
 .agileits-top p {
     font-size: 1em;
@@ -107,7 +130,6 @@ h1 {
 
 .wthree-text {
     margin-top: 10px;
-    margin-left: 15px;
 }
 
 .wthree-text label {

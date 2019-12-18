@@ -1,7 +1,6 @@
 /*Header*/
 @font-face {
-    font-family: Arial,sans-serif;!important;
-
+    font-family: 'Open Sans';
     src: url(../fonts/OpenSans-Regular.ttf) format('truetype');
     font-weight: 400;
     font-style: normal
@@ -9,7 +8,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 body {
-    font-family: Arial,sans-serif;!important;
+    font-family: 'Roboto', Arial, sans-serif;
     background: #fff;
     line-height: 1.42857143;
     color: #333;
@@ -1545,7 +1544,6 @@ header.divfixed .menu-product {
     /* the button becomes visible */
     visibility: visible;
     opacity: 1;
-    border-radius: 25px;
 }
 
 .cd-top.cd-fade-out {
