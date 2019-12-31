@@ -1,0 +1,292 @@
+@media (min-width: 1200px){
+    .container {
+        width: 1180px;
+        max-width: 100%;
+    }
+}
+@media (max-width: 1024px) {
+    .menu-top > ul > li > a{
+        padding: 11px 19px;
+    }
+    .block-dm h5 {
+        font-size: 15px;
+    }
+}
+@media (max-width: 768px) {
+    /*Menu*/
+    .menu {
+        width: 100%;
+        margin-top: 20px;
+        display: none;
+        background: #ddd;
+        z-index: 99999;
+    }
+    .divfixed .menu{
+        margin-top: -5px;
+    }
+    .togger-menu {
+        background: transparent;
+        padding-bottom: 0px;
+        display: inline-block;
+        cursor: pointer;
+    }
+    .divfixed .togger-menu {
+        background: #1579bd;
+        width: 100%;
+    }
+
+    .togger-menu span {
+        float: left;
+        color: #fff;
+        font-size: 22px;
+        margin-right: 10px;
+        margin-left: 10px;
+        display: block;
+        height: 40px;
+        padding: 5px;
+    }
+    .togger-menu span img{
+        max-height: 100%;
+    }
+    .nav ul li a {
+        text-decoration: none;
+        width: 100%;
+        display: inline-block;
+        font-weight: 500;
+    }
+
+    .togger-menu i {
+        float: right;
+        right: 0;
+        position: absolute;
+        color: #ffffff;
+        font-size: 25px;
+        cursor: pointer;
+        margin-right: 15px;
+        top: 10px;
+    }
+
+    .togger-menu-sub {
+        float: right;
+        color: #dda54f;
+        right: 0px;
+        top: 0px;
+        position: absolute;
+        display: none;
+    }
+
+    .nav ul li:hover {
+        transition: all 0.25s;
+        color: #a1241c;
+    }
+
+    .menu ul li ul li {
+        padding: 0px 15px;
+        width: 85%;
+        border-top: none;
+        border-left: none;
+        line-height: 40px;
+        color: #666;
+    }
+
+    .menu ul li ul li a {
+        color: #666;
+    }
+    .nav ul li a.note-pa{
+        background: transparent;
+        padding-top: 0;
+    }
+    .menu ul li:hover ul {
+        display: block;
+    }
+
+    .menu ul li ul {
+        display: none;
+        position: static;
+        top: 45px;
+        width: 330px;
+        left: 0px;
+        z-index: 99999;
+        /*background: #ffffff;*/
+    }
+
+    .nav ul li ul {
+        display: none;
+        top: 45px;
+        width: 100%;
+        left: 0px;
+        z-index: 99999;
+        /*background: #fff;*/
+        border: 0px;
+    }
+
+    .menu ul li {
+        width: 100%;
+        display: inline-block;
+        list-style: none;
+        float: left;
+        padding: 0;
+        font-size: 16px;
+        height: auto;
+        line-height: 37px;
+        text-transform: none;
+        border-bottom: 1px solid #55120b;
+    }
+
+    .banner_header img {
+        width: 100%;
+        height: 120px;
+    }
+
+    .logo {
+        position: relative;
+        margin: 10px 0px 10px 0px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .slide img {
+        width: 100%;
+    }
+
+    #menu-primary a i {
+        display: none;
+    }
+
+    .ads-left{
+        display: none;
+    }
+    header{
+        position: static;
+    }
+    header .logo{
+        display: none;
+    }
+    .sub-menu{
+        position: static!important;
+        z-index: 99999;
+    }
+    .nav ul li{
+        background: none;
+        position: relative;
+    }
+    .nav ul{
+        margin-right: 0;
+        display: block;
+    }
+    header.divfixed{
+        height: 40px;
+        background: transparent;
+        box-shadow: 0 0 0 0 #000;
+    }
+    .menu ul li ul li{
+        width: 100%;
+    }
+    .menu-product{
+        height: auto;
+    }
+    .menu-top > ul > li > a{
+        padding: 0 32px;
+    }
+    .cart-chopping .bxcart{
+        width: 100%;
+    }
+    .cssRPLeft{
+        display: none;
+    }
+    .cssRPRight{
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        width: 100%;
+        max-width: 100%;
+        padding-left: 15px;
+    }
+    .header-top-second{
+        padding: 10px 0;
+    }
+    .cart-chopping .bxcart .input-group span.form-control{
+        display: none;
+    }
+    .header-bottom{
+        display: none;
+    }
+    .main-header{
+        display: block !important;
+        position: absolute;
+        top: 0;
+    }
+    header{
+        background: transparent;
+        box-shadow: 0 0 0 0 #000;
+    }
+    .block-dm{
+        display: none;
+    }
+    .block-dm h5{
+        color: #000;
+    }
+    #menu-primary .ulmenu{
+        display: block;
+    }
+    .ulmenu > li img{
+        margin-top: 6px;
+    }
+    .cssRPSlideRight{
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 75%;
+        -ms-flex: 0 0 75%;
+        flex: 0 0 75%;
+        width: 75%;
+        max-width: 75%;
+        padding-left: 15px;
+    }
+    .pdingleft0{
+        padding-left: 15px;
+    }
+    .bx-breadcrumb{
+        margin-top: 0;
+    }
+    .againShowL{
+        display: block;
+    }
+}
+@media (max-width: 767px) {
+    .cart-chopping .bxcart{
+        width: 70%;
+        float: none;
+        margin: 0 auto;
+    }
+    .cart-chopping .bxcart .input-group span.form-control{
+        display: block;
+    }
+    .cssRPSlideRight{
+        width: 100%;
+        max-width: 100%;
+    }
+    .slide img{
+        height: auto;
+    }
+    .quangcao-block li{
+        height: auto;
+    }
+    .quangcao-block li img{
+        height: auto;
+    }
+    .againShowL{
+        display: none;
+    }
+    .againShow{
+        display: block;
+    }
+}
+@media (max-width: 320px) {
+    .box-cart-lst {
+        width: 90%;
+        right: 5%;
+    }
+    .bx-btn a{
+        padding: 3px 10px;
+    }
+}

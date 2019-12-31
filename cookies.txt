@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo3.skyvietnam.vn	TRUE	/	FALSE	1999999999	ci_session	d8a4d401e3d458e58b747d72a12a863bd697197a
+
